@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# Chatbot-flask-app
+>>>>>>> 4481859114c6d31ab8027ce1b88277cc2981d545
 # Flask Chat Application with Gemini AI
 
 A modern, real-time chat application built with Flask and Google's Gemini AI. This application provides a sleek, responsive interface for users to interact with the Gemini AI model, get real-time information, and engage in meaningful conversations.
@@ -126,4 +130,8 @@ If you encounter any issues or have questions, please:
 
 ## 🔄 Updates
 
+<<<<<<< HEAD
 Stay tuned for future updates and improvements! 
+=======
+Stay tuned for future updates and improvements! 
+>>>>>>> 4481859114c6d31ab8027ce1b88277cc2981d545
